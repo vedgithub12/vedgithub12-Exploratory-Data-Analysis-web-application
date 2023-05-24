@@ -70,3 +70,12 @@ For any questions or feedback regarding this project, feel free to reach out to 
 
 ![image](https://github.com/vedgithub12/vedgithub12-Exploratory-Data-Analysis-web-application/assets/95352215/e57c25b8-82f6-495b-a50a-66ec39c66ec4)
 
+![image](https://github.com/vedgithub12/vedgithub12-Exploratory-Data-Analysis-web-application/assets/95352215/0a41ccd3-6f83-4b8b-b43b-cd4df3de0f41)
+
+![image](https://github.com/vedgithub12/vedgithub12-Exploratory-Data-Analysis-web-application/assets/95352215/8dbe8bb1-1021-4b47-a62a-e590a7b97c0e)
+
+![image](https://github.com/vedgithub12/vedgithub12-Exploratory-Data-Analysis-web-application/assets/95352215/e115fd13-b8ca-43bc-afe4-c83d6e1dbbc3)
+
+![image](https://github.com/vedgithub12/vedgithub12-Exploratory-Data-Analysis-web-application/assets/95352215/9249781d-1479-4e02-b924-e9621ca99020)
+
+
