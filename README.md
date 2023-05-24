@@ -66,4 +66,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 For any questions or feedback regarding this project, feel free to reach out to [Email: vedantv023@gmail.com]
 
+## ScreenShoot:
+
+![image](https://github.com/vedgithub12/vedgithub12-Exploratory-Data-Analysis-web-application/assets/95352215/e57c25b8-82f6-495b-a50a-66ec39c66ec4)
 
